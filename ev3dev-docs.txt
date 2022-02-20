@@ -1,0 +1,16 @@
+https://docs.google.com/document/d/1T8ux1YkZplj9aBQKgC-vg30Bb_Gq-qVco5elWCmPpDM/edit
+
+Документация
+https://github.com/darkavengersmr/EV3-Python/blob/master/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D1%83%D0%B5%D0%BC%20EV3%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20Python%20%D0%B2%20ev3dev.%20%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5%20%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE.pdf
+https://ev3dev-lang.readthedocs.io/projects/python-ev3dev/en/latest/sensors.html
+http://docs.ev3dev.org/projects/lego-linux-drivers/en/ev3dev-jessie/sensors.html
+
+Установка
+https://github.com/ev3dev/vscode-hello-python
+
+http://www.proghouse.ru/component/content/article?id=107:ev3dev
+https://penaty.moscow/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D1%83%D0%B5%D0%BC-ev3-%D0%BD%D0%B0-python/
+
+Подключение
+
+http://www.proghouse.ru/article-box/107-ev3dev
