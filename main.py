@@ -3,14 +3,13 @@ from ev3dev.auto import *
 from PIL import Image
 from time import sleep
 
+from sub import *
+
 
 def Start():
-    lcd = Screen()
-    start_img = Image.open('pics/pentium.jpg')
-    lcd.image.paste(start_img, (-10, -10))
-    lcd.update()
-
-    Sound().beep()
+    Leds.all_off()
+    Leds.set_color(Leds.LEFT, Leds.GREEN, 255)
+    Leds.set_color(Leds.RIGHT, Leds.GREEN, 255)
 
     while True:
         if Button().any():
@@ -22,9 +21,9 @@ def Start():
 def main():
     Start()
 
-    Sound.beep()
     while True:
-        pass
+        print(cl_1.value(), cl_2.value())
+        sleep(0.5)
 
 
 main()
